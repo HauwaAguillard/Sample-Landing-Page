@@ -1,2 +1,1 @@
-# Sample-Landing-Page
-HTML, CSS, and BOOSTRAP
+TinDog Starting Files
