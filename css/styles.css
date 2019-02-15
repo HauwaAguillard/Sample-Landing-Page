@@ -50,9 +50,15 @@ background-color: #f3d516;
   font-size: 1.5rem;
 }
 
+.navbar-dark{
+  background-color: #f3d516 !important;
+}
+
 .nav-link {
-  font-size: 1.2rem;
-  font-family: "Montserrat-Light";
+  font-size: 1.4rem;
+  font-family: "Montserrat-Bold";
+  color: white !important;
+
 }
 
 .nav-item {
@@ -94,7 +100,7 @@ background-color: #f3d516;
 }
 
 .icon {
-  color: #343943;
+  color: #f3d516;
   padding: 3% 0 10% 0;
 }
 
@@ -162,7 +168,6 @@ background-color: #f3d516;
 .footer i{
   margin: 20px 10px;
 }
-
 
 @media (max-width: 1028px) {
   .iphone-image {
