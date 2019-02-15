@@ -3,3 +3,6 @@
 <h1> Screenshots </h1>
 
 ![](/images/landingPage1.PNG)
+![](/images/landingPage2.PNG)
+![](/images/landingPage3.PNG)
+![](/images/landingPage4.PNG)
