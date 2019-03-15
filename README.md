@@ -2,6 +2,8 @@
 <p> Direct link: https://haguillard.github.io/Sample-Landing-Page/ </p>
 <h1> Screenshots </h1>
 
+![](/images/App_landing_page.PNG)
+
 ![](/images/landingPage1.PNG)
 ![](/images/landingPage2.PNG)
 ![](/images/landingPage3.PNG)
